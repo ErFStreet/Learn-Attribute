@@ -1,0 +1,12 @@
+﻿*************************************
+
+Controller name : DoSomethingController
+
+For use of InformationAttribute 
+
+[Information] <== ***
+
+public IActionResult Next()
+{
+    return Ok();
+}
